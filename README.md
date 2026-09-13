@@ -1,4 +1,4 @@
-# Rapido Captain Acquisition Take-Home Analysis
+# Rapido Take-Home Assignment Analysis
 
 This repo answers Part A (onboarding funnel) and Part B (airport supply)
 of the Data Scientist take home Assignment. Every script runs end to end from
